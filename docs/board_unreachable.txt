@@ -1,0 +1,5 @@
+4 4
+CCXX
+XXCC
+XXCC
+CCXX

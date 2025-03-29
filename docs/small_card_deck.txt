@@ -1,0 +1,4 @@
+Fire 2 3 4 1
+Water 3 2 1 4
+Earth 4 1 3 2
+Air 3 3 1 2

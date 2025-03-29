@@ -1,0 +1,7 @@
+numCardsFlipped 0 1
+numCardsFlipped 0 2
+numCardsFlipped 1 2
+numCardsFlipped 2 1
+numCardsFlipped 3 1
+numCardsFlipped 3 2
+numCardsFlipped 3 3
