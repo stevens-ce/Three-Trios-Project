@@ -34,5 +34,7 @@
    
 # Misc Details
  Alt README contains specific implementation details, produced during the course of creating this project.
+
+ This project was coursework at the Khoury College of Computer Science at Northeastern University. The course instructor was Prof. Lucia Nunez.
  
  All code in src/threetrios/view credited to partner programmer Leah Methratta. 
