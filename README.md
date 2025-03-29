@@ -25,11 +25,11 @@
   
   Possible arguments: human, strategy1, strategy2
    
-   human: manual play
+   human - manual play
   
-   strategy1: automatically plays a card to the position that will flip the maximum number of cards
+   strategy1 - automatically plays a card to the position that will flip the maximum number of cards
   
-   strategy2: automatically plays a card to the safest cornermost position
+   strategy2 - automatically plays a card to the safest cornermost position
 
    
 # Misc Details
